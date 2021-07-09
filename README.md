@@ -1,4 +1,4 @@
-# Project for **Tesvan** using pytest and requests modules
+# Project using pytest and requests modules
 <br>
 
 ## Install dependencies
